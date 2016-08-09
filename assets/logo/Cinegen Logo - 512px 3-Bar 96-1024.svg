@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512.00001 512.00001"
+   id="svg8416"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Cinegen Logo - Inkscape Favicon 512px 3-Bar (Final).svg">
+  <defs
+     id="defs8418" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.96191406"
+     inkscape:cx="76.150253"
+     inkscape:cy="226.89139"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1151"
+     inkscape:window-x="1920"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata8421">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-245.14273,10.495067)">
+    <g
+       id="g13076">
+      <rect
+         x="245.14273"
+         y="-10.495067"
+         width="512"
+         height="512"
+         id="rect4853"
+         style="fill:#ffffff;stroke:none;opacity:0" />
+      <path
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5055"
+         d="M 718.74332,387.06646 609.94254,387.06646 569.14176,346.26763 528.34098,387.06646 473.94254,387.06646 365.14371,278.26763 541.94254,101.4688 501.14176,60.668017 283.54215,278.26763 392.34098,387.06646 283.54215,387.06646 283.54215,430.34185 718.74332,430.34185 Z"
+         style="fill:#ffffff;stroke:none" />
+      <polygon
+         id="polygon5059"
+         points="-513.658,-2557.482 -596.389,-2474.75 -596.389,-2398.383 -513.658,-2481.114 -469.11,-2436.566 -532.75,-2372.927 -494.566,-2334.744 -392.742,-2436.566 "
+         style="fill:#ffffff;stroke:none"
+         transform="matrix(1.0685156,0,0,1.0685156,1138.3933,2881.7771)" />
+    </g>
+  </g>
+</svg>
